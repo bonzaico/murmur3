@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "elm": "^0.19.0",
-    "elm-test": "^0.19.0-beta9"
+    "elm": "^0.19.0-no-deps",
+    "elm-test": "^0.19.0-rev6"
   }
 }
