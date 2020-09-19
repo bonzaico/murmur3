@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "elm": "^0.18.0",
+    "elm": "^0.18.0-exp5",
     "elm-test": "^0.18.9"
   }
 }
